@@ -15,20 +15,28 @@ Passionate about unlocking the mysteries of data, I'm a Ph.D. in Materials scien
 
 🐍 **Python prodigy:**
 Python, PEP8
+
 🧱 **Building blocks of data science:**
 Numpy, Pandas, Spark, SQL, MySQL, Relational databases
+
 🎨 **Data visualization artist:**
 Seaborn, Matplotlib, Looker Studio, Tableau, Charting, Data storytelling, Data presenting
+
 🔍 **Data detective:**
 Data cleaning, Data wrangling, EDA (Exploratory Data Analysis)
+
 📊 **Statistical sorcerer:**
 Linear algebra, Statistical distributions, Statistical inference, Confidence intervals, A/B Testing, Hypothesis testing, Statistical modeling, Bayesian statistics
+
 📈 **Machine learning maestro:**
 LIME, SHAP, PCA, Gaussian mixture models, Linear regression, Logistic regression, Multilevel models, Marginal models, KNNs, Decision trees, Random forests, Support vector machines, XGBoost
+
 🔧 **Engineering expert:**
 Feature engineering, Dimensionality reduction, Clustering, Handling imbalanced data, Model selection, Optimization algorithms, Hyperparameter tuning
+
 🖥️ **AI architect:**
 Convolutional neural networks, Computer vision
+
 🔍 **Data science toolsmith:**
 Docker, Object-oriented programming
 
@@ -38,5 +46,6 @@ I love to merge the analytical thinking from my research days with creative prob
 
 ---
 
-<iframe src="https://giphy.com/embed/OnJLRvXvAmvPW" width="480" height="336" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tired-OnJLRvXvAmvPW">via GIPHY</a></p>
+<img src="https://giphy.com/embed/OnJLRvXvAmvPW">
+
 
